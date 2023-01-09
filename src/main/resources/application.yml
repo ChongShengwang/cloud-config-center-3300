@@ -12,6 +12,7 @@ spring:
           ####搜索目录
           search-paths:
             - springcloud-config
+          usernam: ChongShengwang
       ####读取分支
       label: master
 #rabbitmq相关配置
