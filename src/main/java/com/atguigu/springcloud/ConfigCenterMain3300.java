@@ -4,6 +4,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
 
+import java.sql.SQLOutput;
+
 /**
  * @auther zzyy
  * @create 2020-02-21 17:47
@@ -16,3 +18,4 @@ public class ConfigCenterMain3300
         SpringApplication.run(ConfigCenterMain3300.class, args);
     }
 }
+
