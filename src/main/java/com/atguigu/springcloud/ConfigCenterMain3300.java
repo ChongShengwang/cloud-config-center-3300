@@ -17,5 +17,7 @@ public class ConfigCenterMain3300
     public static void main(String[] args) {
         SpringApplication.run(ConfigCenterMain3300.class, args);
     }
+
+    System.out.println("2");
 }
 
